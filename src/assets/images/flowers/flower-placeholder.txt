@@ -1,0 +1,3 @@
+This is a placeholder file. Add flower images in this directory.
+Recommended: 5-10 different flower images with transparent backgrounds.
+Name them flower1.png, flower2.png, etc.
